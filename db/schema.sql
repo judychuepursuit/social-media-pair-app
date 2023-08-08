@@ -20,6 +20,7 @@ CREATE TABLE socialmedia (
  rating TEXT,
  launched TEXT,
  ma_users TEXT,
- website TEXT,
+ website TEXT NOT NULL,
+ logo_link TEXT,
  is_favorite BOOLEAN
 );
