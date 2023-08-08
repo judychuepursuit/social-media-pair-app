@@ -1,6 +1,6 @@
 const express = require("express");
 const apps = express.Router();
-const { checkName, checkWebsite, checkBoolean } = require("../validations/checkSocialMedia");
+const { checkName, checkWebsite, checkBoolean } = require("../validations/checkApps");
 const {
   getAllApps,
   getApp,

@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
 });
 
 // APPS ROUTES
-const appsController = require("./controllers/socialMedia");
+const appsController = require("./controllers/appsController");
 app.use("/apps", appsController);
 
 // 404 PAGE
