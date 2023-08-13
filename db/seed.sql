@@ -3,7 +3,7 @@
 INSERT INTO socialmedia (name, rating, launched, ma_users, website, logo_link, is_favorite) VALUES
 
 ('Facebook', '3.2', '2004', '2.9B', 'https://www.facebook.com/', 'https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=w240-h480-rw', false),
-('YouTube', '4.2', '2005', '2.2B', 'https://www.youtube.com/', 'https://e7.pngegg.com/pngimages/208/269/png-clipart-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-thumbnail.png', true),
+('YouTube', '4.2', '2005', '2.2B', 'https://www.youtube.com/', 'https://www.freepnglogos.com/uploads/video-youtube-icon-27.png', true),
 ('WhatsApp', '4.3', '2009', '2B', 'https://www.whatsapp.com/', 'https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=w240-h480-rw', false),
 ('Instagram', '3.9', '2010', '2B', 'https://www.instagram.com/', 'https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM=w240-h480-rw', false),
 ('TikTok', '4.3', '2016', '1B', 'https://www.tiktok.com/en/', 'https://play-lh.googleusercontent.com/BmUViDVOKNJe0GYJe22hsr7juFndRVbvr1fGmHGXqHfJjNAXjd26bfuGRQpVrpJ6YbA=w240-h480-rw', false),
