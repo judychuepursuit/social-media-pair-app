@@ -2,8 +2,10 @@ const db = require("../db/dbConfig.js");
 
 // ALL Apps
 const getAllApps = async () => {
+    console.log("running get all apps")
     try {
         const allApps = await db.any("SELECT * FROM socialmedia");
+        console.log(allApps)
         return allApps;
     }
     catch (error) {

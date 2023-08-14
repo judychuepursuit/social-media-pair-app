@@ -11,6 +11,7 @@ const {
 
 // INDEX
 apps.get("/", async (req, res) => {
+  console.log("get request made to apps route")
   const allApps = await getAllApps();
   if (allApps[0]) {
     res.status(200).json(allApps);

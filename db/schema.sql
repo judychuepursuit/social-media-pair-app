@@ -14,6 +14,7 @@ CREATE DATABASE socialmedia_dev;
 -- );
 
 DROP TABLE IF EXISTS socialmedia;
+
 CREATE TABLE socialmedia (
  id SERIAL PRIMARY KEY,
  name TEXT NOT NULL,
