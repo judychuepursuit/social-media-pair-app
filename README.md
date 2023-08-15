@@ -9,29 +9,31 @@ https://github.com/judychuepursuit and https://github.com/RK-404/
     <h1>Top Social Media App</h1>
     <p>
 This “top-socialmedia-app" is the frontend app portion (REACT) that pairs with the "social-media-pair-app" (backend app, EXPRESS) for the Project named: 
-<h3>Social Media App<h3> 
+<h3>Social Media App<h3>
 <img alt="top-socialmedia-app Index page" 
 src="controllers/top-socialmedia-app Index page.png" width="350"></img>
-<br> 
+<br>
 <h3>My Trello Board:<h3> 
 <li><a href="https://trello.com/b/0Z4MrYHZ"> Pair Project Trello Board</a></li>
 <img alt="trello" src="controllers/Pair Project Top Social Media Apps.png" width="350"></img>
 
 <h2> Here are the Github repository links: Front and Back end <b>The Social Media App:</b></h2>
       <ul>
-        <li>DATABASE_URL:<a href= https://github.com/judychuepursuit/top-socialmedia-app> Top Social Media App Front</a></li>
+        <li>Deployed_APP: <a href= https://top-socialmedia-app.onrender.com>Top Social Media App</a></li>
 <br>
-        <li>DATABASE_URL: <a href= https://github.com/judychuepursuit/social-media-pair-app>Top Social Media App Back</a></li>
+        <li>Frontend_URL: <a href= https://github.com/judychuepursuit/top-socialmedia-app>Top Social Media App Front</a></li>
+<br>
+        <li>Backend_URL: <a href= https://github.com/judychuepursuit/social-media-pair-app>Top Social Media App Back</a></li>
       </ul>
 
 <h2> This App applies the PERN Stack & C-R-U-D points.</h2>
 <p>HTTP Methods: HTTP methods are also called verbs. They are types of requests you can make to a server. The four most common ones are listed below:</p>
 <ul>
-      <li>GET /apps: Returns a list of all Apps.</li>
-      <li>POST /apps: Creates a new App.</li>
-      <li>GET /apps/: id: Returns the App with the specified ID.</li>
-      <li>PUT /apps/: id: Updates the App with the specified ID.</li>
-      <li>DELETE /apps/: id: Deletes the App with the specified ID.</li>
+    <li>GET /apps : Returns a list of all Apps.</li>
+    <li>POST /apps : Creates a new App.</li>
+    <li>GET /apps/:id : Returns the App with the specified ID.</li>
+    <li>PUT /apps/:id : Updates the App with the specified ID.</li>
+    <li>DELETE /apps/:id : Deletes the App with the specified ID.</li>
 </ul>
 <h2>Social Media App Frontend</h2>
 <p>
